@@ -161,15 +161,18 @@
   year    = {2016},
   groups  = {数据集},
 }
-@article{汤泽胜2011单帧图像人体姿态估计综述,
-  title={单帧图像人体姿态估计综述},
-  author={汤泽胜 and 王兆仲},
-  journal={计算机工程与科学},
-  volume={33},
-  number={11},
-  pages={89-97},
-  year={2011},
+
+@Article{汤泽胜2011单帧图像人体姿态估计综述,
+  author  = {汤泽胜 and 王兆仲},
+  journal = {计算机工程与科学},
+  title   = {单帧图像人体姿态估计综述},
+  year    = {2011},
+  number  = {11},
+  pages   = {89-97},
+  volume  = {33},
+  groups  = {人体识别},
 }
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
