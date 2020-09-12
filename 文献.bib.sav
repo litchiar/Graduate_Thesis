@@ -8,6 +8,9 @@
   organization = {IEEE},
   pages        = {1468--1476},
   groups       = {动作评估},
+  priority     = {prio2},
+  ranking      = {rank3},
+  readstatus   = {read},
 }
 
 @Article{Xu2019,
